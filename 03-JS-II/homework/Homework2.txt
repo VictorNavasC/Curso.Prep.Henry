@@ -1,0 +1,17 @@
+Ciclo "for":
+Este es un ciclo, que consiste en tres expresiones opcionales, 
+encerradas en paréntesis y separadas por puntos y comas, seguidas 
+de una sentencia ejecutada en un bucle.
+
+Operadores Logicos:
+Los operadores lógicos comparan valores booleanos y devuelven 
+respuestas booleanas. Hay dos tipos de operadores lógicos AND 
+y OR. Estos operadores por lo general se escriben && (AND) y 
+|| (OR).
+
+El operador lógico NOT no realiza ninguna comparación como lo 
+hacen los operadores AND y OR. Además, se opera en solo un 
+operando.
+
+Se utiliza un símbolo "!" (signo de exclamación) para representar 
+un operador NOT.
