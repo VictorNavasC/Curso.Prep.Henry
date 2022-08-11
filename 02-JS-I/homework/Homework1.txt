@@ -1,0 +1,25 @@
+1) Variables:
+Las variables son contenedores o espacios donde almacenamos
+informacion, datos, etc. En JavaScript las podemos declarar
+con las palabras reservadas: "var", "let" y "const", siendo
+esta ultima utilizada mayormente para asignar valores cons-
+tantes.
+
+2)Strings:
+Los Strings, se conocen como cadena de caracteres las cuales
+pueden ser frases y/o palabras.
+
+3)Funciones (argumentos, return):
+Las funciones son instrucciones de codigo que pueden ser reuti-
+lizadas en cualquier momento y que nos van a "retornar" un re-
+sultado esperado de acuerdo a su configuracion.
+
+4)Declaraciones "if":
+A traves de estas declaraciones, vamos a establecer "condiciones"
+que deberan cumplirse en la ejecucion de un codigo establecido
+para un programa.
+
+5)Valores Booleanos(true, false):
+A traves de estos valores vamos determinar si una sentencia o de-
+claracion es verdadera (true), o falsa (false). En lenguaje de ma-
+quina estos valores son true = 1 y false = 0.
