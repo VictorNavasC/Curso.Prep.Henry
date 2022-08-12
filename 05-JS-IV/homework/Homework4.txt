@@ -1,0 +1,22 @@
+OBJETO:
+La clase Object representa uno de los tipos de datos en Javascript. 
+Es usado para guardar una colección de datos definidos y entidades 
+más complejas.
+
+PROPIEDADES:
+Una propiedad de un objeto se puede explicar como una variable adjunta 
+al objeto. Las propiedades de un objeto básicamente son lo mismo que 
+las variables comunes de JavaScript, excepto por el nexo con el objeto. 
+Las propiedades de un objeto definen las características del objeto.
+
+METODOS:
+Se denomina metodo, a las funciones guardadas dentro de un objeto.
+
+BUCLE:
+Un bucle o ciclo es el proceso donde se ejecutan cierto numero de
+actividades o iteraciones, previamente establecidas edentro de un
+rango.
+
+NOTACION DE PUNTOS vs. NOTACION DE CORCHETES:
+Son la manera de manejar la relacion entre la propiedad y su valor
+dentro de u objeto.
