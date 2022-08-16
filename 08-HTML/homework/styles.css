@@ -1,0 +1,38 @@
+
+        body{
+            background-image: url(/08-HTML/homework/pizzeria2.png);
+        }
+
+        h1{
+            color: blue;
+        }
+
+        img{
+            width: 400px;
+        }
+
+        #thirdDiv{
+            width: 500px;
+            height: 600px;
+            background-color: antiquewhite;
+            padding: 25px;
+            border: 3px solid red;
+            position: relative;
+            left: 700px;
+        }
+
+        #thirdDiv ul li{
+            padding: 10px;
+        }
+
+        #spanId{
+            font-size: 18px;
+            margin: 50px;
+            display: inline;
+        }
+
+        .divClass a{
+            color: red;
+            font-weight: bold;
+            display: block;
+        }
